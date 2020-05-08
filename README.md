@@ -1,6 +1,6 @@
-# Project Title
+# MySQL Practice Code
 
-MySQL practice code
+The code for practicing MySQL.
 
 ## Description
 
